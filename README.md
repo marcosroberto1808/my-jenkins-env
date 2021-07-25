@@ -1,4 +1,4 @@
-# mywebsite-jenkins
+# my-jenkins-env
 Jenkins infrastructure to run mywebsite app
 ## Setup the docker image
 
